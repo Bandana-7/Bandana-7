@@ -21,9 +21,9 @@ Loves to have new experiences, meet new people and learn new things.</li>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"  alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/bandana-nayak-16395b1b5/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"  alt="LinkedIn"/></a>
  <a href="mailto:bandana.nayak.cps@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
+  <a href="https://www.instagram.com/bonnie_reflections/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
   <a href="https://github.com/Bandana-7" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
