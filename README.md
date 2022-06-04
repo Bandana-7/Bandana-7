@@ -57,6 +57,6 @@ Loves to have new experiences, meet new people and learn new things.</li>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandana-7&" alt="Bandana-7" /></p>
 
 
-![Spotify](https://ch4444.vercel.app/api/spotify-playing)
+
 
 
